@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Abdallah-Osama-portfolio/static/css/main.2859d334.css",
-    "main.js": "/Abdallah-Osama-portfolio/static/js/main.b50dfe55.js",
+    "main.js": "/Abdallah-Osama-portfolio/static/js/main.2abdd627.js",
     "static/js/415.4d6acbeb.chunk.js": "/Abdallah-Osama-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Abdallah-Osama-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/chatify.png": "/Abdallah-Osama-portfolio/static/media/chatify.b5412726f89f79b50d3b.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/Abdallah-Osama-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Abdallah-Osama-portfolio/index.html",
     "main.2859d334.css.map": "/Abdallah-Osama-portfolio/static/css/main.2859d334.css.map",
-    "main.b50dfe55.js.map": "/Abdallah-Osama-portfolio/static/js/main.b50dfe55.js.map",
+    "main.2abdd627.js.map": "/Abdallah-Osama-portfolio/static/js/main.2abdd627.js.map",
     "415.4d6acbeb.chunk.js.map": "/Abdallah-Osama-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Abdallah-Osama-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2859d334.css",
-    "static/js/main.b50dfe55.js"
+    "static/js/main.2abdd627.js"
   ]
 }
