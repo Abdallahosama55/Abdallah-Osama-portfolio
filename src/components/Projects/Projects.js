@@ -7,6 +7,9 @@ import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
+import KSP from "../../Assets/Projects/Ksp.png";
+import AHA from "../../Assets/Projects/AHA.png";
+import safq from "../../Assets/Projects/safq.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import Fade from "react-reveal/Fade";
 import Bounce from "react-reveal/Bounce";
@@ -24,6 +27,51 @@ function Projects() {
       
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
    
+        <Col md={4} className="project-card">
+          <Bounce left duration={2000} >
+            <ProjectCard
+              imgPath={KSP}
+              isBlog={false}
+              title=" Ksp Garage ERP System"
+              description="It is a system for car management, garage management, employee management,payroll management,human resources management. React and Redux toolkit , APIs"
+              
+              ghLink="https://github.com/Abdallahosama55/KSP-Garage-ERP-system"
+              demoLink="https://ksp-garage-erp-system.vercel.app/"
+            />
+            </Bounce>
+          </Col>
+          <Col md={4} className="project-card">
+          <Bounce left duration={2000} >
+            <ProjectCard
+              imgPath={AHA}
+              isBlog={false}
+              title=" AHA Market"
+              description="An introductory website for a company specialized in the field of digital currencies, Forex, crypto , and currency trading in the UAE using React Js ,React Hooks "
+              
+              ghLink="https://github.com/Abdallahosama55/cryptocurrency_website"
+              demoLink="https://www.ahamarket.ae/"
+            />
+            </Bounce>
+          </Col>
+
+          
+          
+
+          
+          <Col md={4} className="project-card">
+          <Bounce left duration={2000} >
+            <ProjectCard
+              imgPath={safq}
+              isBlog={false}
+              title=" sfqah Market"
+              description="Design and programming an online store (ECO System) for Safqa Company in KSA it is company made a  marble products linked to the Application Programming Interface, a website compatible with all devices and browsers (API).  With the possibility of  E-payment"
+              ghLink="https://sfqah.com/"
+              demoLink="https://sfqah.com/"
+            />
+            </Bounce>
+          </Col>
+
+          
           <Col md={4} className="project-card">
           <Bounce left duration={2000} >
             <ProjectCard
